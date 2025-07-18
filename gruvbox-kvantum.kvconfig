@@ -70,6 +70,11 @@ dialog_button_layout=0
 intensity=1.00
 saturation=1.00
 
+[Common]
+menu_opacity=1.0
+tooltip_opacity=1.0
+translucent_windows=false
+
 [GeneralColors]
 window.color=#3c3836
 base.color=#3c3836
